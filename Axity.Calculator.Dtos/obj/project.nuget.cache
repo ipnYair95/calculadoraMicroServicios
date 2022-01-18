@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y0axFDobxcuBN2U08xD0RE30+ljURvZvFbRKGvSumh7/Sb/Tnw7BwEONOY3ULi8XW/G33BICaOX+qVoVduLrkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\T450s\\Desktop\\calculator-service (1)\\calculator-service\\Axity.Calculator.Dtos\\Axity.Calculator.Dtos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\T450s\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

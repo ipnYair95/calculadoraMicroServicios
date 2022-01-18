@@ -1,0 +1,15 @@
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.DataAccess\bin\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.deps.json
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.DataAccess\bin\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.dll
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.DataAccess\bin\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.pdb
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.DataAccess\bin\Debug\netcoreapp3.1\Axity.Calculator.Entities.dll
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.DataAccess\bin\Debug\netcoreapp3.1\Axity.Calculator.Resources.dll
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.DataAccess\bin\Debug\netcoreapp3.1\Axity.Calculator.Entities.pdb
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.DataAccess\bin\Debug\netcoreapp3.1\Axity.Calculator.Resources.pdb
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.DataAccess\obj\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.csproj.AssemblyReference.cache
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.DataAccess\obj\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.DataAccess\obj\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.AssemblyInfoInputs.cache
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.DataAccess\obj\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.AssemblyInfo.cs
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.DataAccess\obj\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.DataAccess\obj\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.csproj.CopyComplete
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.DataAccess\obj\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.dll
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.DataAccess\obj\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.pdb

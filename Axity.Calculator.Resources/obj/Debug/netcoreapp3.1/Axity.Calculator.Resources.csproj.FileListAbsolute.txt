@@ -1,0 +1,13 @@
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Resources\bin\Debug\netcoreapp3.1\Axity.Calculator.Resources.deps.json
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Resources\bin\Debug\netcoreapp3.1\Axity.Calculator.Resources.dll
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Resources\bin\Debug\netcoreapp3.1\Axity.Calculator.Resources.pdb
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Resources\bin\Debug\netcoreapp3.1\Axity.Calculator.Entities.dll
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Resources\bin\Debug\netcoreapp3.1\Axity.Calculator.Entities.pdb
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Resources\obj\Debug\netcoreapp3.1\Axity.Calculator.Resources.csproj.AssemblyReference.cache
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Resources\obj\Debug\netcoreapp3.1\Axity.Calculator.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Resources\obj\Debug\netcoreapp3.1\Axity.Calculator.Resources.AssemblyInfoInputs.cache
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Resources\obj\Debug\netcoreapp3.1\Axity.Calculator.Resources.AssemblyInfo.cs
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Resources\obj\Debug\netcoreapp3.1\Axity.Calculator.Resources.csproj.CoreCompileInputs.cache
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Resources\obj\Debug\netcoreapp3.1\Axity.Calculator.Resources.csproj.CopyComplete
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Resources\obj\Debug\netcoreapp3.1\Axity.Calculator.Resources.dll
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Resources\obj\Debug\netcoreapp3.1\Axity.Calculator.Resources.pdb

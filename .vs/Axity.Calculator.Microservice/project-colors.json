@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7bae0358-451b-49c8-a034-3af7ea52ad66": {
+      "ProjectGuid": "7bae0358-451b-49c8-a034-3af7ea52ad66",
+      "DisplayName": "Axity.Calculator.Api",
+      "ColorIndex": 0
+    },
+    "b3414384-5547-4adb-986b-2e7e0bab63d6": {
+      "ProjectGuid": "b3414384-5547-4adb-986b-2e7e0bab63d6",
+      "DisplayName": "Axity.Calculator.Facade",
+      "ColorIndex": 1
+    },
+    "562f2256-e541-4a95-912a-59ef8b155458": {
+      "ProjectGuid": "562f2256-e541-4a95-912a-59ef8b155458",
+      "DisplayName": "Axity.Calculator.Test",
+      "ColorIndex": 2
+    },
+    "99fc9f95-23c9-4338-a5f7-d852b537434e": {
+      "ProjectGuid": "99fc9f95-23c9-4338-a5f7-d852b537434e",
+      "DisplayName": "Axity.Calculator.Services",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
