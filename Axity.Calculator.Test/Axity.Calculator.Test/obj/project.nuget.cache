@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h20SebgJn3z2Xayr/d/kN9J0GTLFIegJzZMl6Ce5Q5La/BJmDS1Jrf7lAEq7Mjm9hqK8zrJhjoEskD89ivO05w==",
+  "dgSpecHash": "Ub7WWZf6M0g5cbaKxv5wNP0ZnfXN/FNAjA/qIXg+OmCrAJEQaz7jkYId4grzmCxM2tM/r5Lw+LW/dlM6YVtMPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\T450s\\Desktop\\calculator-service (1)\\calculator-service\\Axity.Calculator.Test\\Axity.Calculator.Test\\Axity.Calculator.Test.csproj",
+  "projectFilePath": "C:\\Users\\T450s\\Desktop\\Nueva carpeta\\calculadoraMicroServicios\\Axity.Calculator.Test\\Axity.Calculator.Test\\Axity.Calculator.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\T450s\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\T450s\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",

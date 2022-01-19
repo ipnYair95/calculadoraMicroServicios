@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c6gW+1OoXz7NCoP39INw1ElzqYpPEBhmFHH6ZJEUGZLFB31pE4KxYVlM7tucOzM8LakhJ0eHHU5H5NeG5bntrA==",
+  "dgSpecHash": "Vysuuamf3t0p+q0MZx0wReRhthAwQ24d/O0DhOOICeAFCtetygYrMqLO5rH87A3WroqN6x1nIC6KSJLa8yNexA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\T450s\\Desktop\\calculator-service (1)\\calculator-service\\Axity.Calculator.DependencyInjection\\Axity.Calculator.DependencyInjection.csproj",
+  "projectFilePath": "C:\\Users\\T450s\\Desktop\\Nueva carpeta\\calculadoraMicroServicios\\Axity.Calculator.DependencyInjection\\Axity.Calculator.DependencyInjection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\T450s\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\T450s\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

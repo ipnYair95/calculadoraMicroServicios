@@ -121,7 +121,7 @@ namespace Axity.Calculator.Test.Services.Calculator
         public void ShouldReturnSevenWithSumAndTwoAndFive()
         {
             int a = 2, b = 5;
-            string operation = "+";
+            string operation = "sum";
 
             ResponseModel expected = new ResponseModel();
             expected.Message = "200: Success";
@@ -138,7 +138,7 @@ namespace Axity.Calculator.Test.Services.Calculator
         public void ShouldReturnFiveSubstractAndTenAndFive()
         {
             int a = 10, b = 5;
-            string operation = "-";
+            string operation = "subs";
 
             ResponseModel expected = new ResponseModel();
             expected.Message = "200: Success";
@@ -155,7 +155,7 @@ namespace Axity.Calculator.Test.Services.Calculator
         public void ShouldReturnEightWithMultiAndTwoAndFour()
         {
             int a = 2, b = 4;
-            string operation = "*";
+            string operation = "multi";
 
             ResponseModel expected = new ResponseModel();
             expected.Message = "200: Success";
@@ -172,7 +172,7 @@ namespace Axity.Calculator.Test.Services.Calculator
         public void ShouldReturnFourWithDivitionAndEightAndTwo()
         {
             int a = 8, b = 2;
-            string operation = "/";
+            string operation = "div";
 
             ResponseModel expected = new ResponseModel();
             expected.Message = "200: Success";

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\T450s\\Desktop\\calculator-service (1)\\calculator-service\\Axity.Calculator.Dtos\\Axity.Calculator.Dtos.csproj": {}
+    "C:\\Users\\T450s\\Desktop\\Nueva carpeta\\calculadoraMicroServicios\\Axity.Calculator.Dtos\\Axity.Calculator.Dtos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\T450s\\Desktop\\calculator-service (1)\\calculator-service\\Axity.Calculator.Dtos\\Axity.Calculator.Dtos.csproj": {
+    "C:\\Users\\T450s\\Desktop\\Nueva carpeta\\calculadoraMicroServicios\\Axity.Calculator.Dtos\\Axity.Calculator.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T450s\\Desktop\\calculator-service (1)\\calculator-service\\Axity.Calculator.Dtos\\Axity.Calculator.Dtos.csproj",
+        "projectUniqueName": "C:\\Users\\T450s\\Desktop\\Nueva carpeta\\calculadoraMicroServicios\\Axity.Calculator.Dtos\\Axity.Calculator.Dtos.csproj",
         "projectName": "Axity.Calculator.Dtos",
-        "projectPath": "C:\\Users\\T450s\\Desktop\\calculator-service (1)\\calculator-service\\Axity.Calculator.Dtos\\Axity.Calculator.Dtos.csproj",
+        "projectPath": "C:\\Users\\T450s\\Desktop\\Nueva carpeta\\calculadoraMicroServicios\\Axity.Calculator.Dtos\\Axity.Calculator.Dtos.csproj",
         "packagesPath": "C:\\Users\\T450s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\T450s\\Desktop\\calculator-service (1)\\calculator-service\\Axity.Calculator.Dtos\\obj\\",
+        "outputPath": "C:\\Users\\T450s\\Desktop\\Nueva carpeta\\calculadoraMicroServicios\\Axity.Calculator.Dtos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -8,3 +8,13 @@ C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculato
 C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Dtos\obj\Debug\netcoreapp3.1\Axity.Calculator.Dtos.csproj.CoreCompileInputs.cache
 C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Dtos\obj\Debug\netcoreapp3.1\Axity.Calculator.Dtos.dll
 C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Dtos\obj\Debug\netcoreapp3.1\Axity.Calculator.Dtos.pdb
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Dtos\bin\Debug\netcoreapp3.1\Axity.Calculator.Dtos.deps.json
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Dtos\bin\Debug\netcoreapp3.1\Axity.Calculator.Dtos.dll
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Dtos\bin\Debug\netcoreapp3.1\Axity.Calculator.Dtos.pdb
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Dtos\obj\Debug\netcoreapp3.1\Axity.Calculator.Dtos.csproj.AssemblyReference.cache
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Dtos\obj\Debug\netcoreapp3.1\Axity.Calculator.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Dtos\obj\Debug\netcoreapp3.1\Axity.Calculator.Dtos.AssemblyInfoInputs.cache
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Dtos\obj\Debug\netcoreapp3.1\Axity.Calculator.Dtos.AssemblyInfo.cs
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Dtos\obj\Debug\netcoreapp3.1\Axity.Calculator.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Dtos\obj\Debug\netcoreapp3.1\Axity.Calculator.Dtos.dll
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Dtos\obj\Debug\netcoreapp3.1\Axity.Calculator.Dtos.pdb

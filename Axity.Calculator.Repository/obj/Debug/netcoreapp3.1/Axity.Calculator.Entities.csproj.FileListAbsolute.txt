@@ -8,3 +8,13 @@ C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculato
 C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Repository\obj\Debug\netcoreapp3.1\Axity.Calculator.Entities.dll
 C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Repository\obj\Debug\netcoreapp3.1\Axity.Calculator.Entities.pdb
 C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Repository\obj\Debug\netcoreapp3.1\Axity.Calculator.Entities.csproj.AssemblyReference.cache
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Repository\bin\Debug\netcoreapp3.1\Axity.Calculator.Entities.deps.json
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Repository\bin\Debug\netcoreapp3.1\Axity.Calculator.Entities.dll
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Repository\bin\Debug\netcoreapp3.1\Axity.Calculator.Entities.pdb
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Repository\obj\Debug\netcoreapp3.1\Axity.Calculator.Entities.csproj.AssemblyReference.cache
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Repository\obj\Debug\netcoreapp3.1\Axity.Calculator.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Repository\obj\Debug\netcoreapp3.1\Axity.Calculator.Entities.AssemblyInfoInputs.cache
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Repository\obj\Debug\netcoreapp3.1\Axity.Calculator.Entities.AssemblyInfo.cs
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Repository\obj\Debug\netcoreapp3.1\Axity.Calculator.Entities.csproj.CoreCompileInputs.cache
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Repository\obj\Debug\netcoreapp3.1\Axity.Calculator.Entities.dll
+C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Repository\obj\Debug\netcoreapp3.1\Axity.Calculator.Entities.pdb

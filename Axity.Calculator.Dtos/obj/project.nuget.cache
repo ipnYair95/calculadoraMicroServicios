@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y0axFDobxcuBN2U08xD0RE30+ljURvZvFbRKGvSumh7/Sb/Tnw7BwEONOY3ULi8XW/G33BICaOX+qVoVduLrkQ==",
+  "dgSpecHash": "KX7i71KRhAgo+l1LUn3eZhEQxSkE/nV6HavSddFNJtKsldZbyhfQD2q5H73GKiF8iqbUPF3wpPT/l4cWFR/qkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\T450s\\Desktop\\calculator-service (1)\\calculator-service\\Axity.Calculator.Dtos\\Axity.Calculator.Dtos.csproj",
+  "projectFilePath": "C:\\Users\\T450s\\Desktop\\Nueva carpeta\\calculadoraMicroServicios\\Axity.Calculator.Dtos\\Axity.Calculator.Dtos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\T450s\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],
