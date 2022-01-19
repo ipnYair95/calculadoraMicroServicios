@@ -5058,11 +5058,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\T450s\\Desktop\\Nueva carpeta\\calculadoraMicroServicios\\Axity.Calculator.Facade\\Axity.Calculator.Facade.csproj",
+      "projectUniqueName": "C:\\Users\\T450s\\Desktop\\calculadoraMicroServicios\\Axity.Calculator.Facade\\Axity.Calculator.Facade.csproj",
       "projectName": "Axity.Calculator.Facade",
-      "projectPath": "C:\\Users\\T450s\\Desktop\\Nueva carpeta\\calculadoraMicroServicios\\Axity.Calculator.Facade\\Axity.Calculator.Facade.csproj",
+      "projectPath": "C:\\Users\\T450s\\Desktop\\calculadoraMicroServicios\\Axity.Calculator.Facade\\Axity.Calculator.Facade.csproj",
       "packagesPath": "C:\\Users\\T450s\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\T450s\\Desktop\\Nueva carpeta\\calculadoraMicroServicios\\Axity.Calculator.Facade\\obj\\",
+      "outputPath": "C:\\Users\\T450s\\Desktop\\calculadoraMicroServicios\\Axity.Calculator.Facade\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5082,11 +5082,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\T450s\\Desktop\\Nueva carpeta\\calculadoraMicroServicios\\Axity.Calculator.Repository\\Axity.Calculator.Entities.csproj": {
-              "projectPath": "C:\\Users\\T450s\\Desktop\\Nueva carpeta\\calculadoraMicroServicios\\Axity.Calculator.Repository\\Axity.Calculator.Entities.csproj"
+            "C:\\Users\\T450s\\Desktop\\calculadoraMicroServicios\\Axity.Calculator.Repository\\Axity.Calculator.Entities.csproj": {
+              "projectPath": "C:\\Users\\T450s\\Desktop\\calculadoraMicroServicios\\Axity.Calculator.Repository\\Axity.Calculator.Entities.csproj"
             },
-            "C:\\Users\\T450s\\Desktop\\Nueva carpeta\\calculadoraMicroServicios\\Axity.Calculator.Services\\Axity.Calculator.Services.csproj": {
-              "projectPath": "C:\\Users\\T450s\\Desktop\\Nueva carpeta\\calculadoraMicroServicios\\Axity.Calculator.Services\\Axity.Calculator.Services.csproj"
+            "C:\\Users\\T450s\\Desktop\\calculadoraMicroServicios\\Axity.Calculator.Services\\Axity.Calculator.Services.csproj": {
+              "projectPath": "C:\\Users\\T450s\\Desktop\\calculadoraMicroServicios\\Axity.Calculator.Services\\Axity.Calculator.Services.csproj"
             }
           }
         }

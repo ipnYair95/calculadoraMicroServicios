@@ -40,3 +40,24 @@ C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.
 C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Facade\obj\Debug\netcoreapp3.1\Axity.Calculator.Facade.csproj.CopyComplete
 C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Facade\obj\Debug\netcoreapp3.1\Axity.Calculator.Facade.dll
 C:\Users\T450s\Desktop\Nueva carpeta\calculadoraMicroServicios\Axity.Calculator.Facade\obj\Debug\netcoreapp3.1\Axity.Calculator.Facade.pdb
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\bin\Debug\netcoreapp3.1\Axity.Calculator.Facade.deps.json
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\bin\Debug\netcoreapp3.1\Axity.Calculator.Facade.dll
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\bin\Debug\netcoreapp3.1\Axity.Calculator.Facade.pdb
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\bin\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.dll
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\bin\Debug\netcoreapp3.1\Axity.Calculator.Dtos.dll
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\bin\Debug\netcoreapp3.1\Axity.Calculator.Entities.dll
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\bin\Debug\netcoreapp3.1\Axity.Calculator.Resources.dll
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\bin\Debug\netcoreapp3.1\Axity.Calculator.Services.dll
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\bin\Debug\netcoreapp3.1\Axity.Calculator.Entities.pdb
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\bin\Debug\netcoreapp3.1\Axity.Calculator.Services.pdb
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\bin\Debug\netcoreapp3.1\Axity.Calculator.DataAccess.pdb
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\bin\Debug\netcoreapp3.1\Axity.Calculator.Dtos.pdb
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\bin\Debug\netcoreapp3.1\Axity.Calculator.Resources.pdb
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\obj\Debug\netcoreapp3.1\Axity.Calculator.Facade.csproj.AssemblyReference.cache
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\obj\Debug\netcoreapp3.1\Axity.Calculator.Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\obj\Debug\netcoreapp3.1\Axity.Calculator.Facade.AssemblyInfoInputs.cache
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\obj\Debug\netcoreapp3.1\Axity.Calculator.Facade.AssemblyInfo.cs
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\obj\Debug\netcoreapp3.1\Axity.Calculator.Facade.csproj.CoreCompileInputs.cache
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\obj\Debug\netcoreapp3.1\Axity.Calculator.Facade.csproj.CopyComplete
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\obj\Debug\netcoreapp3.1\Axity.Calculator.Facade.dll
+C:\Users\T450s\Desktop\calculadoraMicroServicios\Axity.Calculator.Facade\obj\Debug\netcoreapp3.1\Axity.Calculator.Facade.pdb

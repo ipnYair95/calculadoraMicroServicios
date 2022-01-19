@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OAH6m5Jns2A0qOi9ySxm37YQCJi7XPjEwr2Kg4nl7KE7bu0ClatzG1FdAAh4I3FvJKK9EoLnCNzx0yoIuGmd7g==",
+  "dgSpecHash": "/kgHnjfP0dPJcosmsaIeNRlFCfe7XxANHglu8ujOT1wBbvW723OpY4Ls2R/IqQUcNBdfNAP8HwspYhWD6iX18w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\T450s\\Desktop\\Nueva carpeta\\calculadoraMicroServicios\\Axity.Calculator.Resources\\Axity.Calculator.Resources.csproj",
+  "projectFilePath": "C:\\Users\\T450s\\Desktop\\calculadoraMicroServicios\\Axity.Calculator.Resources\\Axity.Calculator.Resources.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\T450s\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\T450s\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

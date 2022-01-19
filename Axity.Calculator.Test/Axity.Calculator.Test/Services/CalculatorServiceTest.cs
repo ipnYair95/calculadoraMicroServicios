@@ -189,10 +189,10 @@ namespace Axity.Calculator.Test.Services.Calculator
         public void ShouldReturnErrorWithDivisionZero()
         {
             int a = 2, b = 0;
-            string operation = "/";
+            string operation = "div";
 
             ResponseModel expected = new ResponseModel();
-            expected.Message = "400: Invalid Operation";
+            expected.Message = "400: Invalid argument, Not Zero for division";
             expected.Result = 0;
 
             ResponseModel provided = this.modelServices.Operate(operation, a, b);

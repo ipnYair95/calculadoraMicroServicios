@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lh12W5JvXTBIGz3tOcYjXaJj7FsYs7xZGU808NoCGyhdQ0Kau87uujmozJKWwAacxsxCIAmznJMsMig2J4oOHw==",
+  "dgSpecHash": "ntJShr9utCOorChQpc72gu/9NcpROiI51CoLfkQsCQViZ9OWQVvrTp+lf28fK8VsOqZTybnUtdEr8mlfFndUzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\T450s\\Desktop\\Nueva carpeta\\calculadoraMicroServicios\\Axity.Calculator.Facade\\Axity.Calculator.Facade.csproj",
+  "projectFilePath": "C:\\Users\\T450s\\Desktop\\calculadoraMicroServicios\\Axity.Calculator.Facade\\Axity.Calculator.Facade.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\T450s\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\T450s\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
