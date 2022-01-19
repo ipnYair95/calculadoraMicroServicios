@@ -109,7 +109,7 @@ namespace Axity.Calculator.Test.Services.Calculator
             expected.Result = 0;
 
             ResponseModel provided = this.modelServices.Operate(operation, a, b);
-            Assert.AreEqual( expected.Message, provided.Message);
+            Assert.AreEqual(expected.Message, provided.Message);
 
             // Assert.Throws<ArgumentException>(() => this.modelServices.Operate(operation, a, b));
         }
@@ -117,7 +117,7 @@ namespace Axity.Calculator.Test.Services.Calculator
         /// <summary>
         /// test the insert.
         /// </summary>
-        [Test]        
+        [Test]
         public void ShouldReturnSevenWithSumAndTwoAndFive()
         {
             int a = 2, b = 5;
@@ -198,9 +198,5 @@ namespace Axity.Calculator.Test.Services.Calculator
             ResponseModel provided = this.modelServices.Operate(operation, a, b);
             Assert.AreEqual(expected.Result, provided.Result);
         }
-
-
-
-
     }
 }

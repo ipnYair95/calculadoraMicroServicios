@@ -59,6 +59,11 @@ namespace Axity.Calculator.Services.Calculator.Impl
         public ResponseModel Operate(string op, int num1, int num2)
         {
             ResponseModel resp = new ResponseModel();
+            CalculadoraModel cal = new CalculadoraModel();
+            cal.Operation = op;
+            cal.Num1 = num1;
+            cal.Num2 = num2;
+
             Regex rx = new Regex(@"^(sum|subs|multi|div){1}$");
             double result = 0;
 
@@ -78,23 +83,7 @@ namespace Axity.Calculator.Services.Calculator.Impl
                 return resp;
             }
 
-            switch (op)
-            {
-                case @"sum":
-                    result = num1 + num2;
-                    break;
-                case @"subs":
-                    result = num1 - num2;
-                    break;
-                case @"div":
-                    result = num1 / num2;
-                    break;
-                case @"multi":
-                    result = num1 * num2;
-                    break;
-            }
-
-            resp.Result = result;
+            resp.Result = cal.MakeOperation();
             resp.Message = "Ok";
             return resp;
         }

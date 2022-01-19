@@ -7,3 +7,4 @@ C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculato
 C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Repository\obj\Debug\netcoreapp3.1\Axity.Calculator.Entities.csproj.CoreCompileInputs.cache
 C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Repository\obj\Debug\netcoreapp3.1\Axity.Calculator.Entities.dll
 C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Repository\obj\Debug\netcoreapp3.1\Axity.Calculator.Entities.pdb
+C:\Users\T450s\Desktop\calculator-service (1)\calculator-service\Axity.Calculator.Repository\obj\Debug\netcoreapp3.1\Axity.Calculator.Entities.csproj.AssemblyReference.cache
