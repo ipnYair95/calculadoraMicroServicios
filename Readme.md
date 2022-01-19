@@ -3,6 +3,9 @@
 
 # Marín Alavez Edgar Yair
 
+## Diagramas
+
+En la carpeta diagramas, igual contiene la captura de exito de los Tests
 
 ## EndPoint
 
